@@ -1,0 +1,40 @@
+* {
+    margin: 3px;
+    padding: 2px;
+    background-color: black;
+    color: white;
+}
+
+div#calculadora {
+    position:fixed;
+    width: 270px;
+    border-color: white;
+    border-style: inset;
+}
+
+div#teclado {
+    width: 210px;
+    border-color: gray;
+    margin: 12px 15px
+}
+
+div#tela {
+    margin: 15px 0 15px 15px;
+    width: 220px;
+    height: 35px;
+    font-size: 15px;
+    background-color: white;
+}
+
+li {
+    list-style: none;
+}
+
+li>button#teclas {
+    width: 50px;
+    height: 60px;
+    font-size: 25px;
+    text-align: center;
+    margin-left:5px;
+    margin-right: 5px;
+}

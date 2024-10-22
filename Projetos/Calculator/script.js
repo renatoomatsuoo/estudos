@@ -1,0 +1,1 @@
+alerta('Oláá! Seja muito bem vindo(a) a Calculadora Online!')
